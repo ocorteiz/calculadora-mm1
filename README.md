@@ -1,5 +1,5 @@
 
-# Projeto de calculadora de sistemas M/M/1  
+# Projeto calculadora de sistemas M/M/1  
 
 Desenvolvido por Luis Felipe Cortêz.
 
